@@ -1,0 +1,54 @@
+  [
+  {
+    "id": "ecos-del-jardin",
+    "titulo": "Ecos del Jardín",
+    "curso": "2025-2026",
+    "asignatura": "Diseño de Juegos Experimentales",
+    "motor": "Unity 6",
+    "tematicas": ["Ecología", "Narrativo", "Multiespecie"],
+    "autoria": "Laura Gómez, Martín Ruiz",
+    "sinopsis": "Exploración sonora en primera persona donde el jugador escucha y traduce señales bioeléctricas de plantas urbanas.",
+    "imagen": "https://placehold.co/640x360/e4e4e7/52525b?text=Ecos+del+Jardin",
+    "jugarUrl": "https://itch.io",
+    "repoUrl": "https://github.com"
+  },
+  {
+    "id": "protocolo-burocracia",
+    "titulo": "Protocolo 404",
+    "curso": "2024-2025",
+    "asignatura": "Sistemas Interactivos",
+    "motor": "Godot 4",
+    "tematicas": ["Diseño Crítico", "Sátira", "Interfaces"],
+    "autoria": "Carlos Méndez, Sofía Chen",
+    "sinopsis": "Simulador de ventanilla administrativa que cuestiona los patrones oscuros y la fricción algorítmica en servicios digitales.",
+    "imagen": "https://placehold.co/640x360/e4e4e7/52525b?text=Protocolo+404",
+    "jugarUrl": "https://itch.io",
+    "repoUrl": ""
+  },
+  {
+    "id": "trama-inversa",
+    "titulo": "Trama Inversa",
+    "curso": "2024-2025",
+    "asignatura": "Arte y Computación",
+    "motor": "p5.js",
+    "tematicas": ["Generativo", "Puzles", "Tipografía"],
+    "autoria": "Elena Navarro",
+    "sinopsis": "Juego tipográfico generativo en el que la física de las palabras altera la arquitectura del nivel en tiempo real.",
+    "imagen": "https://placehold.co/640x360/e4e4e7/52525b?text=Trama+Inversa",
+    "jugarUrl": "https://itch.io",
+    "repoUrl": "https://github.com"
+  },
+  {
+    "id": "umbral-tactil",
+    "titulo": "Umbral Táctil",
+    "curso": "2023-2024",
+    "asignatura": "Diseño de Juegos Experimentales",
+    "motor": "Unity",
+    "tematicas": ["Control Alternativo", "Instalación"],
+    "autoria": "Diego Torres, Ana Beltrán, Hugo Sanz",
+    "sinopsis": "Experiencia cooperativa diseñada para controladores textiles capacitivos construidos artesanalmente.",
+    "imagen": "https://placehold.co/640x360/e4e4e7/52525b?text=Umbral+Tactil",
+    "jugarUrl": "",
+    "repoUrl": "https://github.com"
+  }
+]
